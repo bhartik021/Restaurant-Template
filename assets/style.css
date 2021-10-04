@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "Ubuntu", sans-serif;
+  text-decoration: none;
+}
+
+/* footer */
+.page-footer {
+  color: white;
+  background-color: black;
+}
